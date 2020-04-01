@@ -41,3 +41,18 @@
 .cat3{
     background-image: linear-gradient(#ff4a68 0%, #c8009d 100%);
 }
+
+.card
+{
+    border: none;
+    box-shadow: 5px 5px 10px gainsboro;
+    border-radius: 5px;
+}
+#contact
+{
+    height: 350px;
+}
+footer{
+    text-align: center;
+    
+}
